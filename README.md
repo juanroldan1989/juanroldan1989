@@ -56,7 +56,7 @@ I believe the best place to work is the one where I can evolve and challenge mys
 
 Every time I go outside my comfort zone, I find myself traveling to unvisited corners of my mind, felling closely to untapped emotions, watching hidden desires become visible for the first time and I always come back to this:
 
-The only constant throughout my life has been my desire to communicate and build.
+_The only constant throughout my life has been my desire to communicate and build._
 
 I communicate by working on challenging projects, writing and condensing a decade worth of experience within my development blog, performing live music mixes, looking for outdoor activities and chess matches.
 
