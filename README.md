@@ -15,36 +15,39 @@
 <br>
 
 [Colors Tracking App](https://github.com/juanroldan1989/color-tracking)
+
+<img width="800" src="https://github.com/juanroldan1989/color-tracking/blob/main/color-tracking-screenshot.png" />
+
 - Focused on real-time **tracking** and **displaying** user events around clicks and mouseover actions.
 - Backend implementd with **Ruby on Rails** and **Kafka**.
 - Infrastructure managed through **Terraform**.
 - Deployment workflow through **Terraform**b and integrated within **Github Actions** (CI/CD) into **AWS**.
 - **TDD** applied across every development level.
 
-<img width="800" src="https://github.com/juanroldan1989/color-tracking/blob/main/color-tracking-screenshot.png" />
-
 <br>
 
 [URL Shortener](https://github.com/juanroldan1989/terraform-url-shortener) 
+
+<img src="https://github.com/juanroldan1989/terraform-url-shortener/raw/main/screenshots/title-image.png" width="100%" />
+
 - Implemented with **AWS Lambda Functions**, **NodeJS** and **CQRS** Pattern.
 - Infrastructure managed through **Terraform**.
 - Deployment workflow through **Terraform** and integrated within **Github Actions** (CI/CD) into **AWS**.
 - **API Load Testing** results obtained through **Artillery**. Integrated within Github actions.
 - **TDD** applied across every development level.
 
-<img src="https://github.com/juanroldan1989/terraform-url-shortener/raw/main/screenshots/title-image.png" width="100%" />
-
 <br>
 
 [REST API implemented through Terraform and Lambda functions](https://github.com/juanroldan1989/terraform-with-rest-api-gateway-and-lambda-functions)
+
+<img src="https://github.com/juanroldan1989/terraform-with-rest-api-gateway-and-lambda-functions/raw/main/screenshots/custom-auth-workflow.png" width="100%" />
+
 - Implemented with **AWS Lambda Functions** and **NodeJS**.
 - Authorization Layer implemented through **AWS Lambda Authorizer**.
 - Infrastructure managed through **Terraform**.
 - Deployment workflow through **Terraform** and integrated within **Github Actions** (CI/CD) into **AWS**.
 - **API Load Testing** results obtained through **Artillery**. Integrated within Github actions.
 - **TDD** applied across every development level.
-
-<img src="https://github.com/juanroldan1989/terraform-with-rest-api-gateway-and-lambda-functions/raw/main/screenshots/custom-auth-workflow.png" width="100%" />
 
 <br>
 
