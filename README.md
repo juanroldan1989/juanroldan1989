@@ -21,7 +21,7 @@
 - Focused on real-time **tracking** and **displaying** user events around clicks and mouseover actions.
 - Backend implementd with **Ruby on Rails** and **Kafka**.
 - Infrastructure managed through **Terraform**.
-- Deployment workflow through **Terraform**b and integrated within **Github Actions** (CI/CD) into **AWS**.
+- Deployment workflow through **Terraform** and integrated within **Github Actions** (CI/CD) into **AWS**.
 - **TDD** applied across every development level.
 
 <br>
@@ -53,7 +53,7 @@
 
 --
 
-I believe the best place to work is the one where I can evolve and challenge myself in projects while collaborating with amazing people and working on platforms that improve people's lives on a daily basis.
+I believe the best place to work is the one where _I can evolve and challenge myself in projects while collaborating with amazing people_ and working on platforms that improve people's lives on a daily basis.
 
 --
 
@@ -61,6 +61,6 @@ Every time I go outside my comfort zone, I find myself traveling to unvisited co
 
 _The only constant throughout my life has been my desire to communicate and build._
 
-I communicate by working on challenging projects, writing and condensing a decade worth of experience within my development blog, performing live music mixes, looking for outdoor activities and chess matches.
+**I communicate** by working on challenging projects, writing and condensing a decade worth of experience within my development blog, performing live music mixes, looking for outdoor activities and chess matches.
 
-I build through software and infrastructure, system design, piano tunes, writing and sketching.
+**I build** through software and infrastructure, system design, piano tunes, writing and sketching.
