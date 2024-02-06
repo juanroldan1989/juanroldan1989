@@ -6,11 +6,11 @@
 
 🔭 Currently working on scalability and availability solutions applying System Design Patterns and AWS Solutions.
 
-💬 Ask me anything about Ruby on Rails, TDD, AWS Services, Kubernetes, Terraform, Github Actions and surfing spots in Portugal.
-
 ⚡ One phrase that sums up my approach to life: _Looking for discomfort in comfortable ways_
 
-📍Currently living and working in The Netherlands.
+💬 Ask me anything about Ruby on Rails, TDD, AWS Services, Kubernetes, Terraform, Github Actions and surfing spots in Portugal.
+
+📍Living and working in The Netherlands.
 
 <br>
 
@@ -50,6 +50,14 @@
 - **TDD** applied across every development level.
 
 <br>
+
+[Cocktails API](https://cocktailsapi.xyz/)
+
+<img src="https://media.giphy.com/media/zd1VtTAjLRHNe/giphy.gif" width="100%" />
+
+- Providing engineers with THE best dataset of cocktails & drinks from all over the world.
+- [Ruby Client](https://github.com/juanroldan1989/shaken_not_stirred) also available : )
+- Have a 🍹 and start coding!
 
 --
 
