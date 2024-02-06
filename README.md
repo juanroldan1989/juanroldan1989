@@ -56,7 +56,7 @@ That phrase sums up my approach to life that I've developed over the years.
 <img src="https://media.giphy.com/media/zd1VtTAjLRHNe/giphy.gif" width="100%" />
 
 - Providing engineers with THE best dataset of cocktails & drinks from all over the world.
-- [Ruby Client](https://github.com/juanroldan1989/shaken_not_stirred) also available : )
+- [Shaken Not Stirred](https://github.com/juanroldan1989/shaken_not_stirred) API Ruby client ;)
 - Have a 🍹 and start coding!
 
 --
