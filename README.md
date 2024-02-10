@@ -18,7 +18,7 @@ This is my approach to life that I've developed over the years.
 
 [Events Live Tracking App](https://github.com/juanroldan1989/color-tracking)
 
-<img width="800" src="https://github.com/juanroldan1989/color-tracking/blob/main/color-tracking-screenshot.png" />
+<img width="800" src="https://github.com/juanroldan1989/color-tracking/blob/main/color-tracking-live-demo.gif" />
 
 - Focused on real-time **tracking** and **displaying** user events around clicks and mouseover actions.
 - Backend implementd with **Ruby on Rails** and **Kafka**.
