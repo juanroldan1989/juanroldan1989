@@ -16,7 +16,7 @@ This is my approach to life that I've developed over the years.
 
 <br>
 
-[Colors Tracking App](https://github.com/juanroldan1989/color-tracking)
+[Events Live Tracking App](https://github.com/juanroldan1989/color-tracking)
 
 <img width="800" src="https://github.com/juanroldan1989/color-tracking/blob/main/color-tracking-screenshot.png" />
 
