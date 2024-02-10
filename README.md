@@ -21,6 +21,7 @@ This is my approach to life that I've developed over the years.
 <img width="800" src="https://github.com/juanroldan1989/color-tracking/blob/main/color-tracking-live-demo.gif" />
 
 - Focused on real-time **tracking** and **displaying** user events around clicks and mouseover actions.
+- User events information stored in database, shared via websockets and/or polling across clients.
 - Backend implementd with **Ruby on Rails** and **Kafka**.
 - Infrastructure managed through **Terraform**.
 - Deployment workflow through **Terraform** and integrated within **Github Actions** (CI/CD) into **AWS**.
