@@ -20,9 +20,9 @@ This is my approach to life that I've developed over the years.
 
 <img width="800" src="https://github.com/juanroldan1989/color-tracking/blob/main/color-tracking-live-demo.gif" />
 
-- Focused on real-time **tracking** and **displaying** user events for clients based on clicks and mouseover actions.
-- User events information stored in database (PostgreSQL & Redis supported).
-- Events results data shared via **Action Cable** with all subscribed clients or specific clients via **polling** JS requests.
+- Real-time **tracking** and **displaying** of user events (clicks and mouseover actions).
+- User events information stored in database (**PostgreSQL** & **Redis** supported).
+- Events stats shared via **Action Cable** and displayed to subscribed clients or specific clients via **polling** JS requests.
 - Backend implementd with **Ruby on Rails**, **Kafka** and **Zookeeper**.
 - Deployment workflow through **AWS ECS** script.
 - Infrastructure managed through **Terraform** (work in progress).
