@@ -33,6 +33,7 @@ This is my approach to life that I've developed over the years.
 [URL Shortener](https://github.com/juanroldan1989/terraform-url-shortener) 
 
 <img src="https://github.com/juanroldan1989/terraform-url-shortener/raw/main/screenshots/title-image.png" width="100%" />
+<img src="https://github.com/juanroldan1989/terraform-url-shortener/raw/main/screenshots/url-shortener-infra-3.png" width="100%" />
 
 - Implemented with **AWS Lambda Functions**, **NodeJS** and **CQRS** Pattern.
 - Infrastructure managed through **Terraform**.
