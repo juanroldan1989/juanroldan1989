@@ -1,10 +1,13 @@
 ## "_Looking for discomfort in comfortable ways_"
 
-This is my approach to life that I've developed over the years.
+My approach to life developed over the years.
 
 🔭 Currently working on scalability and availability solutions applying system design patterns and AWS solutions.
 
 💬 Ask me anything about movies recommendations and surfing spots in Portugal.
+
+📫 You can find me and my work on <br/>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanroldan89/) [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://backburnerthoughts.substack.com/)
 
 📍Living and working in The Netherlands.
 
