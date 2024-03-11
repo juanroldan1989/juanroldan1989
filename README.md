@@ -32,6 +32,8 @@ Looking forward to driving success in diverse engineering environments, always a
 - Deployment workflow through **AWS ECS** script.
 - Infrastructure managed through **Terraform** (work in progress).
 - Deployment workflow through **Terraform** and integrated within **Github Actions** (CI/CD) into **AWS**. (work in progress)
+- Also developing App through **Serverless** framework -> [Serverless Color Tracking](https://github.com/juanroldan1989/serverless-color-tracking/tree/main)
+<img src="https://github.com/juanroldan1989/serverless-color-tracking/raw/main/screenshots/system-design.png" width="100%" />
 
 <br>
 
@@ -45,9 +47,8 @@ Looking forward to driving success in diverse engineering environments, always a
 - Deployment workflow through **Terraform** and integrated within **Github Actions** (CI/CD) into **AWS**.
 - **API Load Testing** results obtained through **Artillery**. Integrated within Github actions.
 - **TDD** applied across every development level.
-- Implementing API through **Serverless** framework -> [Serverless URL Shortener](https://github.com/juanroldan1989/serverless-url-shortener):
+- Also developing API through **Serverless** framework -> [Serverless URL Shortener](https://github.com/juanroldan1989/serverless-url-shortener):
 <img src="https://github.com/juanroldan1989/serverless-url-shortener/raw/main/screenshots/serverless-shortener-infra-1.png" width="100%" />
-
 
 <br>
 
