@@ -34,11 +34,11 @@ Looking forward to driving success in diverse engineering environments, always a
 - Infrastructure managed through **Terraform** (work in progress).
 - Deployment workflow through **Terraform** and integrated within **Github Actions** (CI/CD) into **AWS**. (work in progress)
 - Application developed through **Serverless** framework as well -> [Serverless Color Tracking](https://github.com/juanroldan1989/serverless-color-tracking/tree/main)
-<img src="https://github.com/juanroldan1989/serverless-color-tracking/raw/main/screenshots/system-design.png" width="100%" />
+  <img src="https://github.com/juanroldan1989/serverless-color-tracking/raw/main/screenshots/system-design.png" width="100%" />
 
 <br>
 
-[URL Shortener](https://github.com/juanroldan1989/terraform-url-shortener) 
+[URL Shortener](https://github.com/juanroldan1989/terraform-url-shortener)
 
 <img src="https://github.com/juanroldan1989/terraform-url-shortener/raw/main/screenshots/title-image.png" width="100%" />
 <img src="https://github.com/juanroldan1989/terraform-url-shortener/raw/main/screenshots/url-shortener-infra-3.png" width="100%" />
@@ -49,7 +49,7 @@ Looking forward to driving success in diverse engineering environments, always a
 - **API Load Testing** results obtained through **Artillery**. Integrated within Github actions.
 - **TDD** applied across every development level.
 - Application developed through **Serverless** framework as well -> [Serverless URL Shortener](https://github.com/juanroldan1989/serverless-url-shortener)
-<img src="https://github.com/juanroldan1989/serverless-url-shortener/raw/main/screenshots/serverless-shortener-infra-1.png" width="100%" />
+  <img src="https://github.com/juanroldan1989/serverless-url-shortener/raw/main/screenshots/serverless-shortener-infra-1.png" width="100%" />
 
 <br>
 
@@ -87,3 +87,5 @@ _The only constant throughout my life has been my desire to communicate and buil
 **I communicate** by working on challenging projects, writing and condensing a decade worth of experience within my development blog, performing live music mixes, looking for outdoor activities and chess matches.
 
 **I build** through software and infrastructure, system design, piano tunes, writing and sketching.
+
+[![HitCount](https://hits.dwyl.com/juanroldan1989/juanroldan1989/juanroldan1989.svg?style=flat-square&show=unique)](http://hits.dwyl.com/juanroldan1989/juanroldan1989/juanroldan1989)
