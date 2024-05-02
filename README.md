@@ -1,34 +1,74 @@
-# 🏄‍♂️ Juan Roldán
+# Juan Roldán
 
-**`Digital Craftsman (DevOps | Software Engineer | 3x AWS & HashiCorp Certified | Lofty DJ)`**
+**`Digital Craftsman (DevOps | Software Engineer | 3x AWS & HashiCorp Certified)`**
 
 Enthusiastic and versatile engineer with a proven track record of successful contributions to small, medium, and large-scale platforms.
 
 Looking forward to driving success in diverse engineering environments, always aiming for innovation, collaboration and excellence.
 
-Personal quotes:
+<!-- ## Interests
 
-- "Looking for discomfort in comfortable ways."
-- "Don't confuse unfamiliarity with complexity."
-- "To have something you never had, you have to do something you never did."
-- "Looking for discomfort in comfortable ways."
+<p align="left">
+  <a href="https://speakerdeck.com/juanroldan1989/fast-mobile-prototyping">
+      <img width="33%" src="https://github.com/juanroldan1989/juanroldan1989/raw/main/photos/speaker.jpeg" style="width: 250px;
+height: 175px;
+object-fit: cover;
+object-position: 10% 33%;">
+  </a>
+  <a href="https://backburnerthoughts.substack.com">
+      <img width="33%" src="https://github.com/juanroldan1989/juanroldan1989/raw/main/photos/backburnerblog.jpeg" style="width: 250px;
+height: 175px;
+object-fit: cover;
+object-position: 10% 33%;">
+  </a>
+  <a href="https://youtu.be/MtFa7i9SRMk?t=1712">
+      <img width="33%" src="https://github.com/juanroldan1989/juanroldan1989/raw/main/photos/dj.jpeg" style="width: 250px;
+height: 175px;
+object-fit: cover;
+object-position: 10% 33%;">
+  </a>
+</p>
+<p>
+  <a href="https://johnnunemaker.com/more-descriptive-flipping">
+      <img width="33%" src="https://github.com/juanroldan1989/juanroldan1989/raw/main/photos/contributor.jpeg" style="width: 250px;
+height: 175px;
+object-fit: cover;
+object-position: 10% 33%;">
+  </a>
+  <a href="https://cocktailsapi.xyz">
+      <img width="33%" src="https://github.com/juanroldan1989/juanroldan1989/raw/main/photos/cocktails.jpeg" style="width: 250px;
+height: 175px;
+object-fit: cover;
+object-position: 10% 33%;">
+  </a>
+  <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <img width="33%" src="https://github.com/juanroldan1989/juanroldan1989/raw/main/photos/photography.jpeg" style="width: 250px;
+height: 175px;
+object-fit: cover;
+object-position: 10% 33%;">
+  </a>
+</p> -->
 
-<hr>
+## 📫 Find me
 
-🔭 Currently working on scalability and availability solutions applying system design patterns and AWS solutions.
+Currently working on scalability and availability solutions applying system design patterns and AWS solutions.
 
-💬 Ask me anything about movies recommendations and surfing spots in Portugal.
+Ask me anything about movies recommendations and surfing spots in Portugal.
 
-📫 You can find me and my work on <br/>
+You can find me and my work on <br/>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanroldan89/) [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://backburnerthoughts.substack.com/)
 
-<hr>
+<!-- ## 📊 Stats -->
 
-🛠 This is the place where I experiment with technologies, frameworks and system design patterns.
+<!-- ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanroldan1989&show_icons=true&theme=gruvbox) -->
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=juanroldan1989&theme=gruvbox&border_radius=4.5) -->
+
+## 🧰 Technologies
 
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"><img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white"><img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 
-<hr>
+## Personal Projects (continuously developed & improved)
 
 [Events Live Tracking App](https://github.com/juanroldan1989/color-tracking)
 
@@ -83,15 +123,17 @@ Personal quotes:
 - [Shaken Not Stirred](https://github.com/juanroldan1989/shaken_not_stirred) API Ruby client ;)
 - Have a 🍹 and start coding!
 
-<hr>
+## Personal quotes
+
+- "Looking for discomfort in comfortable ways."
+- "Don't confuse unfamiliarity with complexity."
+- "To have something you never had, you have to do something you never did."
+
+## 💬 Thoughts on working life
 
 I believe the best place to work is the one where _I can evolve and challenge myself in projects while collaborating with amazing people_ and working on platforms that improve people's lives on a daily basis.
 
 <hr>
-
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanroldan1989&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 Every time I go outside my comfort zone, I find myself traveling to unvisited corners of my mind, felling closely to untapped emotions, watching hidden desires become visible for the first time and I always come back to this:
 
