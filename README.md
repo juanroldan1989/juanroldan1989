@@ -1,8 +1,17 @@
-## "_Looking for discomfort in comfortable ways_"
+# 🏄‍♂️ Juan Roldán
+
+**`Digital Craftsman (DevOps | Software Engineer | 3x AWS & HashiCorp Certified | Lofty DJ)`**
 
 Enthusiastic and versatile engineer with a proven track record of successful contributions to small, medium, and large-scale platforms.
 
 Looking forward to driving success in diverse engineering environments, always aiming for innovation, collaboration and excellence.
+
+Personal quotes:
+
+- "Looking for discomfort in comfortable ways."
+- "Don't confuse unfamiliarity with complexity."
+- "To have something you never had, you have to do something you never did."
+- "Looking for discomfort in comfortable ways."
 
 <hr>
 
@@ -74,11 +83,15 @@ Looking forward to driving success in diverse engineering environments, always a
 - [Shaken Not Stirred](https://github.com/juanroldan1989/shaken_not_stirred) API Ruby client ;)
 - Have a 🍹 and start coding!
 
---
+<hr>
 
 I believe the best place to work is the one where _I can evolve and challenge myself in projects while collaborating with amazing people_ and working on platforms that improve people's lives on a daily basis.
 
---
+<hr>
+
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanroldan1989&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 Every time I go outside my comfort zone, I find myself traveling to unvisited corners of my mind, felling closely to untapped emotions, watching hidden desires become visible for the first time and I always come back to this:
 
