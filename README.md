@@ -1,6 +1,6 @@
 # Juan Roldán
 
-**`Digital Craftsman (DevOps | Software Engineer | 3x AWS & HashiCorp Certified)`**
+**`Digital Craftsman (DevOps | Software Engineer | 3x AWS Certified | CKAD & Terraform Certified)`**
 
 Enthusiastic and versatile engineer with a proven track record of successful contributions to small, medium, and large-scale platforms.
 
@@ -49,14 +49,14 @@ object-position: 10% 33%;">
   </a>
 </p> -->
 
-## 📫 Find me
+## Find me
+
+You can find me and my work on <br/>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanroldan89/) [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://backburnerthoughts.substack.com/)
 
 Currently working on scalability and availability solutions applying system design patterns and AWS solutions.
 
 Ask me anything about movies recommendations and surfing spots in Portugal.
-
-You can find me and my work on <br/>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanroldan89/) [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://backburnerthoughts.substack.com/)
 
 <!-- ## 📊 Stats -->
 
@@ -64,16 +64,18 @@ You can find me and my work on <br/>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=juanroldan1989&theme=gruvbox&border_radius=4.5) -->
 
-## 🧰 Technologies
+## Technologies
 
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"><img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white"><img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 
 ## Personal Projects (continuously developed & improved)
 
-[Events Live Tracking App](https://github.com/juanroldan1989/color-tracking)
+### Events Live Tracking App (AWS ECS)
 
 <img width="800" src="https://github.com/juanroldan1989/color-tracking/blob/main/color-tracking-live-demo.gif" />
 <img width="800" src="https://github.com/juanroldan1989/serverless-color-tracking/raw/main/screenshots/serverless-color-tracking-admin-page-demo.gif" />
+
+https://github.com/juanroldan1989/color-tracking
 
 - Events Tracking Platform 🚦 Clicks & Hovers on Colors 🎯 Live Graphs & Counters
 - User events information stored in database (**PostgreSQL** & **Redis** supported).
@@ -82,12 +84,22 @@ You can find me and my work on <br/>
 - Deployment workflow through **AWS ECS** script.
 - Infrastructure managed through **Terraform** (work in progress).
 - Deployment workflow through **Terraform** and integrated within **Github Actions** (CI/CD) into **AWS**. (work in progress)
-- Application developed through **Serverless** framework as well -> [Serverless Color Tracking](https://github.com/juanroldan1989/serverless-color-tracking/tree/main)
-  <img src="https://github.com/juanroldan1989/serverless-color-tracking/raw/main/screenshots/system-design.png" width="100%" />
 
-<br>
+<hr>
 
-[URL Shortener](https://github.com/juanroldan1989/terraform-url-shortener)
+### Events Live Tracking App (Serverless)
+
+Application developed entirely with **Serverless** framework
+
+- [https://github.com/juanroldan1989/serverless-color-tracking](https://github.com/juanroldan1989/serverless-color-tracking)
+
+<img src="https://github.com/juanroldan1989/serverless-color-tracking/raw/main/screenshots/system-design.png" width="100%" />
+
+<hr>
+
+### URL Shortener (Terraform)
+
+[https://github.com/juanroldan1989/terraform-url-shortener](https://github.com/juanroldan1989/terraform-url-shortener)
 
 <img src="https://github.com/juanroldan1989/terraform-url-shortener/raw/main/screenshots/title-image.png" width="100%" />
 <img src="https://github.com/juanroldan1989/terraform-url-shortener/raw/main/screenshots/url-shortener-infra-3.png" width="100%" />
@@ -97,12 +109,22 @@ You can find me and my work on <br/>
 - Deployment workflow through **Terraform** and integrated within **Github Actions** (CI/CD) into **AWS**.
 - **API Load Testing** results obtained through **Artillery**. Integrated within Github actions.
 - **TDD** applied across every development level.
-- Application developed through **Serverless** framework as well -> [Serverless URL Shortener](https://github.com/juanroldan1989/serverless-url-shortener)
-  <img src="https://github.com/juanroldan1989/serverless-url-shortener/raw/main/screenshots/serverless-shortener-infra-1.png" width="100%" />
 
-<br>
+<hr>
 
-[REST API implemented through Terraform and Lambda functions](https://github.com/juanroldan1989/terraform-with-rest-api-gateway-and-lambda-functions)
+### URL Shortener (Serverless)
+
+Application developed through **Serverless** framework
+
+https://github.com/juanroldan1989/serverless-url-shortener
+
+<img src="https://github.com/juanroldan1989/serverless-url-shortener/raw/main/screenshots/serverless-shortener-infra-1.png" width="100%" />
+
+<hr>
+
+### REST API with Terraform & AWS Lambda functions
+
+https://github.com/juanroldan1989/terraform-with-rest-api-gateway-and-lambda-functions
 
 <img src="https://github.com/juanroldan1989/terraform-with-rest-api-gateway-and-lambda-functions/raw/main/screenshots/custom-auth-workflow.png" width="100%" />
 
@@ -113,15 +135,20 @@ You can find me and my work on <br/>
 - **API Load Testing** results obtained through **Artillery**. Integrated within Github actions.
 - **TDD** applied across every development level.
 
-<br>
+<hr>
 
-[Cocktails API](https://cocktailsapi.xyz/)
+### Cocktails API
+
+https://cocktailsapi.xyz/
+
+Providing engineers with THE best dataset of cocktails & drinks from all over the world.
 
 <img src="https://media.giphy.com/media/zd1VtTAjLRHNe/giphy.gif" width="100%" />
 
-- Providing engineers with THE best dataset of cocktails & drinks from all over the world.
 - [Shaken Not Stirred](https://github.com/juanroldan1989/shaken_not_stirred) API Ruby client ;)
 - Have a 🍹 and start coding!
+
+<hr>
 
 ## Personal quotes
 
@@ -129,11 +156,9 @@ You can find me and my work on <br/>
 - "Don't confuse unfamiliarity with complexity."
 - "To have something you never had, you have to do something you never did."
 
-## 💬 Thoughts on working life
+## Thoughts on the best work environment
 
 I believe the best place to work is the one where _I can evolve and challenge myself in projects while collaborating with amazing people_ and working on platforms that improve people's lives on a daily basis.
-
-<hr>
 
 Every time I go outside my comfort zone, I find myself traveling to unvisited corners of my mind, felling closely to untapped emotions, watching hidden desires become visible for the first time and I always come back to this:
 
@@ -143,4 +168,4 @@ _The only constant throughout my life has been my desire to communicate and buil
 
 **I build** through software and infrastructure, system design, piano tunes, writing and sketching.
 
-[![HitCount](https://hits.dwyl.com/juanroldan1989/juanroldan1989/juanroldan1989.svg?style=flat-square&show=unique)](http://hits.dwyl.com/juanroldan1989/juanroldan1989/juanroldan1989)
+<!-- [![HitCount](https://hits.dwyl.com/juanroldan1989/juanroldan1989/juanroldan1989.svg?style=flat-square&show=unique)](http://hits.dwyl.com/juanroldan1989/juanroldan1989/juanroldan1989) -->
