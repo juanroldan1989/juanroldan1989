@@ -97,7 +97,7 @@ Application developed entirely with **Serverless** framework
 
 <hr>
 
-### URL Shortener (Terraform)
+### URL Shortener API (Terraform)
 
 [https://github.com/juanroldan1989/terraform-url-shortener](https://github.com/juanroldan1989/terraform-url-shortener)
 
@@ -119,6 +119,32 @@ Application developed through **Serverless** framework
 https://github.com/juanroldan1989/serverless-url-shortener
 
 <img src="https://github.com/juanroldan1989/serverless-url-shortener/raw/main/screenshots/serverless-shortener-infra-1.png" width="100%" />
+
+<hr>
+
+### K8S Monitoring - Prometheus & cAdvisor & Grafana
+
+#### CPU Usage Demo
+
+##### Load Testing (Start)
+
+- `rating-ns` deployment
+- HPA enabled for deployment
+- Grafana Dashboards and Panels showcased
+
+https://github.com/user-attachments/assets/0fb3b5b5-0732-4712-8798-cf8a6592262b
+
+https://github.com/user-attachments/assets/4b55b0b8-dd18-4b36-9535-fd7dfa14b65c
+
+##### Load Testing (Ending)
+
+- `infinite-requests` deployment deleted -> load testing source removed
+
+https://github.com/user-attachments/assets/d4e01624-e66f-4d26-afa8-57b35dbce782
+
+- `HPA` terminating pods based on null CPU consumption
+
+https://github.com/user-attachments/assets/2a885781-689a-417f-be15-c57542ed07d8
 
 <hr>
 
