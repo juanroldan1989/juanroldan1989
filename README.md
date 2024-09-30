@@ -88,19 +88,13 @@ https://github.com/juanroldan1989/color-tracking
 
 <hr>
 
-## Events Live Tracking App (Serverless)
-
-https://github.com/juanroldan1989/serverless-color-tracking
-
-<img src="https://github.com/juanroldan1989/serverless-color-tracking/raw/main/screenshots/system-design.png" width="100%" />
-
-<hr>
-
 ## URL Shortener API (Terraform)
 
-API developed through **Serverless** framework - https://github.com/juanroldan1989/terraform-url-shortener
-
 <img src="https://github.com/juanroldan1989/terraform-url-shortener/raw/main/screenshots/title-image.png" width="100%" />
+
+1. API Infrastructure provisioned via **Terraform (IaC)** - https://github.com/juanroldan1989/terraform-url-shortener
+2. API Infrastructure and business logic provisioned via **Serverless** framework - https://github.com/juanroldan1989/serverless-url-shortener
+   <img src="https://github.com/juanroldan1989/serverless-url-shortener/raw/main/screenshots/serverless-shortener-infra-1.png" width="100%" />
 
 - Implemented with **AWS Lambda Functions**, **NodeJS** and **CQRS** Pattern.
 - Infrastructure managed through **Terraform**.
@@ -110,15 +104,29 @@ API developed through **Serverless** framework - https://github.com/juanroldan19
 
 <hr>
 
-## URL Shortener (Serverless)
+## AWS ECS Deployment Blueprints
 
-Application developed through **Serverless** framework - https://github.com/juanroldan1989/serverless-url-shortener
+https://github.com/juanroldan1989/deploy-ecs-blueprint
 
-<img src="https://github.com/juanroldan1989/serverless-url-shortener/raw/main/screenshots/serverless-shortener-infra-1.png" width="100%" />
+Showcase with several combinations of ECS Service + ECS Task + Nginx + Python + Databases
 
-<hr>
+![Screenshot 2024-09-30 at 12 28 13](https://github.com/user-attachments/assets/20bef5c8-8723-40b9-92be-be8427a8ee5e)
 
-## K8S Monitoring - Prometheus & cAdvisor & Grafana
+Features provided within each blueprint:
+
+- 🟢 Software Development Lifecycle (SDLC) pipeline integrated within `Github Actions`
+- 🟢 Infrastructure provisioned through `Terraform`
+- 🟢 Autoscaling mechanisms provided
+- 🟡 `Terraform` State and locking mechanism handled within `S3` and `DynamoDB` **(work in progress)**
+- 🟡 Load Testing performed through `wrk` and `k6s` tools **(work in progress)**
+
+### ECS Service AutoScaling
+
+![Screenshot 2024-09-30 at 20 19 25](https://github.com/user-attachments/assets/ecff068b-8af2-47ff-a18d-798d63f033e4)
+
+![Screenshot 2024-09-30 at 13 33 36](https://github.com/user-attachments/assets/160b9f43-e588-4c50-a015-ff5e8ceaf430)
+
+## Kubernetes Monitoring with Prometheus & cAdvisor & Grafana
 
 ### CPU Usage Demo
 
