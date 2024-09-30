@@ -1,10 +1,10 @@
 # Juan Roldán
 
-**`Digital Craftsman (DevOps | Software Engineer | 3x AWS Certified | CKAD & Terraform Certified)`**
+### Digital Craftsman (DevOps | Software Engineer | 3x AWS Certified | CKAD & Terraform Certified)
 
 Enthusiastic and versatile engineer with a proven track record of successful contributions to small, medium, and large-scale platforms.
 
-Looking forward to driving success in diverse engineering environments, always aiming for innovation, collaboration and excellence.
+Looking forward to driving success in diverse engineering environments, always aiming for innovation and collaboration.
 
 <!-- ## Interests
 
@@ -51,7 +51,6 @@ object-position: 10% 33%;">
 
 ## Find me
 
-You can find me and my work on <br/>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanroldan89/) [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://backburnerthoughts.substack.com/)
 
 Currently working on scalability and availability solutions applying system design patterns and AWS solutions.
@@ -66,16 +65,18 @@ Ask me anything about movies recommendations and surfing spots in Portugal.
 
 ## Technologies
 
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"><img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white"><img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"><img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white"><img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white"><br/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 
-## Personal Projects (continuously developed & improved)
+# Portfolio (continuously developed & improved)
 
-### Events Live Tracking App (AWS ECS)
+## Events Live Tracking App (AWS ECS)
+
+https://github.com/juanroldan1989/color-tracking
 
 <img width="800" src="https://github.com/juanroldan1989/color-tracking/blob/main/color-tracking-live-demo.gif" />
 <img width="800" src="https://github.com/juanroldan1989/serverless-color-tracking/raw/main/screenshots/serverless-color-tracking-admin-page-demo.gif" />
-
-https://github.com/juanroldan1989/color-tracking
 
 - Events Tracking Platform 🚦 Clicks & Hovers on Colors 🎯 Live Graphs & Counters
 - User events information stored in database (**PostgreSQL** & **Redis** supported).
@@ -87,22 +88,19 @@ https://github.com/juanroldan1989/color-tracking
 
 <hr>
 
-### Events Live Tracking App (Serverless)
+## Events Live Tracking App (Serverless)
 
-Application developed entirely with **Serverless** framework
-
-- [https://github.com/juanroldan1989/serverless-color-tracking](https://github.com/juanroldan1989/serverless-color-tracking)
+https://github.com/juanroldan1989/serverless-color-tracking
 
 <img src="https://github.com/juanroldan1989/serverless-color-tracking/raw/main/screenshots/system-design.png" width="100%" />
 
 <hr>
 
-### URL Shortener API (Terraform)
+## URL Shortener API (Terraform)
 
-[https://github.com/juanroldan1989/terraform-url-shortener](https://github.com/juanroldan1989/terraform-url-shortener)
+API developed through **Serverless** framework - https://github.com/juanroldan1989/terraform-url-shortener
 
 <img src="https://github.com/juanroldan1989/terraform-url-shortener/raw/main/screenshots/title-image.png" width="100%" />
-<img src="https://github.com/juanroldan1989/terraform-url-shortener/raw/main/screenshots/url-shortener-infra-3.png" width="100%" />
 
 - Implemented with **AWS Lambda Functions**, **NodeJS** and **CQRS** Pattern.
 - Infrastructure managed through **Terraform**.
@@ -112,21 +110,19 @@ Application developed entirely with **Serverless** framework
 
 <hr>
 
-### URL Shortener (Serverless)
+## URL Shortener (Serverless)
 
-Application developed through **Serverless** framework
-
-https://github.com/juanroldan1989/serverless-url-shortener
+Application developed through **Serverless** framework - https://github.com/juanroldan1989/serverless-url-shortener
 
 <img src="https://github.com/juanroldan1989/serverless-url-shortener/raw/main/screenshots/serverless-shortener-infra-1.png" width="100%" />
 
 <hr>
 
-### K8S Monitoring - Prometheus & cAdvisor & Grafana
+## K8S Monitoring - Prometheus & cAdvisor & Grafana
 
-#### CPU Usage Demo
+### CPU Usage Demo
 
-##### Load Testing (Start)
+#### Load Testing (Start)
 
 - `rating-ns` deployment
 - HPA enabled for deployment
@@ -136,7 +132,7 @@ https://github.com/user-attachments/assets/0fb3b5b5-0732-4712-8798-cf8a6592262b
 
 https://github.com/user-attachments/assets/4b55b0b8-dd18-4b36-9535-fd7dfa14b65c
 
-##### Load Testing (Ending)
+#### Load Testing (Ending)
 
 - `infinite-requests` deployment deleted -> load testing source removed
 
@@ -148,7 +144,7 @@ https://github.com/user-attachments/assets/2a885781-689a-417f-be15-c57542ed07d8
 
 <hr>
 
-### REST API with Terraform & AWS Lambda functions
+## REST API with Terraform & AWS Lambda functions
 
 https://github.com/juanroldan1989/terraform-with-rest-api-gateway-and-lambda-functions
 
@@ -163,7 +159,7 @@ https://github.com/juanroldan1989/terraform-with-rest-api-gateway-and-lambda-fun
 
 <hr>
 
-### Cocktails API
+## Cocktails API
 
 https://cocktailsapi.xyz/
 
