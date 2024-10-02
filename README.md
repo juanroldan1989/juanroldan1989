@@ -1,67 +1,19 @@
 # Juan Roldán
 
-### Digital Craftsman (DevOps | Software Engineer | 3x AWS Certified | CKAD & Terraform Certified)
+### DevOps | Software Engineer | CKAD | 3x AWS Certified | Terraform & Argo Certified
 
 Enthusiastic and versatile engineer with a proven track record of successful contributions to small, medium, and large-scale platforms.
 
 Looking forward to driving success in diverse engineering environments, always aiming for innovation and collaboration.
 
-<!-- ## Interests
-
-<p align="left">
-  <a href="https://speakerdeck.com/juanroldan1989/fast-mobile-prototyping">
-      <img width="33%" src="https://github.com/juanroldan1989/juanroldan1989/raw/main/photos/speaker.jpeg" style="width: 250px;
-height: 175px;
-object-fit: cover;
-object-position: 10% 33%;">
-  </a>
-  <a href="https://backburnerthoughts.substack.com">
-      <img width="33%" src="https://github.com/juanroldan1989/juanroldan1989/raw/main/photos/backburnerblog.jpeg" style="width: 250px;
-height: 175px;
-object-fit: cover;
-object-position: 10% 33%;">
-  </a>
-  <a href="https://youtu.be/MtFa7i9SRMk?t=1712">
-      <img width="33%" src="https://github.com/juanroldan1989/juanroldan1989/raw/main/photos/dj.jpeg" style="width: 250px;
-height: 175px;
-object-fit: cover;
-object-position: 10% 33%;">
-  </a>
-</p>
-<p>
-  <a href="https://johnnunemaker.com/more-descriptive-flipping">
-      <img width="33%" src="https://github.com/juanroldan1989/juanroldan1989/raw/main/photos/contributor.jpeg" style="width: 250px;
-height: 175px;
-object-fit: cover;
-object-position: 10% 33%;">
-  </a>
-  <a href="https://cocktailsapi.xyz">
-      <img width="33%" src="https://github.com/juanroldan1989/juanroldan1989/raw/main/photos/cocktails.jpeg" style="width: 250px;
-height: 175px;
-object-fit: cover;
-object-position: 10% 33%;">
-  </a>
-  <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-      <img width="33%" src="https://github.com/juanroldan1989/juanroldan1989/raw/main/photos/photography.jpeg" style="width: 250px;
-height: 175px;
-object-fit: cover;
-object-position: 10% 33%;">
-  </a>
-</p> -->
-
 # Find me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanroldan89/) [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://backburnerthoughts.substack.com/)
 
-Currently working on scalability and availability solutions applying system design patterns and AWS solutions.
+Currently focused on:
 
-Ask me anything about movies recommendations and surfing spots in Portugal.
-
-<!-- ## 📊 Stats -->
-
-<!-- ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanroldan1989&show_icons=true&theme=gruvbox) -->
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=juanroldan1989&theme=gruvbox&border_radius=4.5) -->
+- scalability and availability solutions applying system design patterns within AWS.
+- researching self-service environment/services provisioning solutions like: AWS Proton, Port and Backstage.
 
 # Technologies
 
@@ -200,5 +152,3 @@ _The only constant throughout my life has been my desire to communicate and buil
 **I communicate** by working on challenging projects, writing and condensing a decade worth of experience within my development blog, performing live music mixes, looking for outdoor activities and chess matches.
 
 **I build** through software and infrastructure, system design, piano tunes, writing and sketching.
-
-<!-- [![HitCount](https://hits.dwyl.com/juanroldan1989/juanroldan1989/juanroldan1989.svg?style=flat-square&show=unique)](http://hits.dwyl.com/juanroldan1989/juanroldan1989/juanroldan1989) -->
