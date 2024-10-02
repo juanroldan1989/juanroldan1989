@@ -21,7 +21,7 @@ Currently focused on:
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white"><img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 
-# Portfolio (continuously developed & improved)
+# Portfolio (continuously developed)
 
 ## Events Live Tracking App (AWS ECS)
 
@@ -65,6 +65,10 @@ Showcase with several combinations of ECS Service + ECS Task + Nginx + Python + 
 
 ![Screenshot 2024-09-30 at 12 28 13](https://github.com/user-attachments/assets/20bef5c8-8723-40b9-92be-be8427a8ee5e)
 
+![Screenshot 2024-09-30 at 20 19 25](https://github.com/user-attachments/assets/ecff068b-8af2-47ff-a18d-798d63f033e4)
+
+![Screenshot 2024-09-30 at 13 33 36](https://github.com/user-attachments/assets/160b9f43-e588-4c50-a015-ff5e8ceaf430)
+
 Features provided within each blueprint:
 
 - 🟢 Software Development Lifecycle (SDLC) pipeline integrated within `Github Actions`
@@ -73,11 +77,19 @@ Features provided within each blueprint:
 - 🟡 `Terraform` State and locking mechanism handled within `S3` and `DynamoDB` **(work in progress)**
 - 🟡 Load Testing performed through `wrk` and `k6s` tools **(work in progress)**
 
-### ECS Service AutoScaling
+<hr>
 
-![Screenshot 2024-09-30 at 20 19 25](https://github.com/user-attachments/assets/ecff068b-8af2-47ff-a18d-798d63f033e4)
+## Terra Ops
 
-![Screenshot 2024-09-30 at 13 33 36](https://github.com/user-attachments/assets/160b9f43-e588-4c50-a015-ff5e8ceaf430)
+https://github.com/juanroldan1989/terra-ops
+
+<img src="https://github.com/juanroldan1989/terra-ops/blob/main/terra-ops-logo.png" alt="juanroldan1989 terra-ops">
+
+This project structure allows engineers to:
+
+- work in authorized environments linked to Terraform workspaces
+- update modules as needed
+- deploy specific applications or modules, like networking or ArgoCD apps within their respective environments
 
 <hr>
 
