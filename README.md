@@ -138,9 +138,7 @@ https://github.com/juanroldan1989/terraform-with-rest-api-gateway-and-lambda-fun
 
 https://cocktailsapi.xyz/
 
-Providing engineers with THE best dataset of cocktails & drinks from all over the world.
-
-<img src="https://media.giphy.com/media/zd1VtTAjLRHNe/giphy.gif" width="100%" />
+![Screenshot 2024-10-02 at 21 01 09](https://github.com/user-attachments/assets/b637267b-3d05-4f38-a5ec-2812b1a38427)
 
 - [Shaken Not Stirred](https://github.com/juanroldan1989/shaken_not_stirred) API Ruby client ;)
 - Have a 🍹 and start coding!
