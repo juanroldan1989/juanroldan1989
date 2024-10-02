@@ -49,7 +49,7 @@ object-position: 10% 33%;">
   </a>
 </p> -->
 
-## Find me
+# Find me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanroldan89/) [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://backburnerthoughts.substack.com/)
 
@@ -63,7 +63,7 @@ Ask me anything about movies recommendations and surfing spots in Portugal.
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=juanroldan1989&theme=gruvbox&border_radius=4.5) -->
 
-## Technologies
+# Technologies
 
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"><img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white"><img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white"><br/>
@@ -73,38 +73,39 @@ Ask me anything about movies recommendations and surfing spots in Portugal.
 
 ## Events Live Tracking App (AWS ECS)
 
+Events Tracking Platform 🚦 Clicks & Hovers on Colors 🎯 Live Graphs & Counters
+
 https://github.com/juanroldan1989/color-tracking
 
 <img width="800" src="https://github.com/juanroldan1989/color-tracking/blob/main/color-tracking-live-demo.gif" />
 <img width="800" src="https://github.com/juanroldan1989/serverless-color-tracking/raw/main/screenshots/serverless-color-tracking-admin-page-demo.gif" />
 
-- Events Tracking Platform 🚦 Clicks & Hovers on Colors 🎯 Live Graphs & Counters
 - User events information stored in database (**PostgreSQL** & **Redis** supported).
 - Events stats shared via **Action Cable** and displayed to subscribed clients or specific clients via **polling** JS requests.
 - Backend implementd with **Ruby on Rails**, **Kafka** and **Zookeeper**.
 - Deployment workflow through **AWS ECS** script.
-- Infrastructure managed through **Terraform** (work in progress).
 - Deployment workflow through **Terraform** and integrated within **Github Actions** (CI/CD) into **AWS**. (work in progress)
+- **Alternative Implementation** - API Infrastructure and business logic provisioned via **Serverless** framework - https://github.com/juanroldan1989/serverless-url-shortener
 
 <hr>
 
 ## URL Shortener API (Terraform)
 
-<img src="https://github.com/juanroldan1989/terraform-url-shortener/raw/main/screenshots/title-image.png" width="100%" />
+API Infrastructure provisioned via **Terraform (IaC)** - https://github.com/juanroldan1989/terraform-url-shortener
 
-1. API Infrastructure provisioned via **Terraform (IaC)** - https://github.com/juanroldan1989/terraform-url-shortener
-2. API Infrastructure and business logic provisioned via **Serverless** framework - https://github.com/juanroldan1989/serverless-url-shortener
-   <img src="https://github.com/juanroldan1989/serverless-url-shortener/raw/main/screenshots/serverless-shortener-infra-1.png" width="100%" />
+<img src="https://github.com/juanroldan1989/terraform-url-shortener/raw/main/screenshots/title-image.png" width="100%" />
+<img src="https://github.com/juanroldan1989/serverless-url-shortener/raw/main/screenshots/serverless-shortener-infra-1.png" width="100%" />
 
 - Implemented with **AWS Lambda Functions**, **NodeJS** and **CQRS** Pattern.
 - Infrastructure managed through **Terraform**.
 - Deployment workflow through **Terraform** and integrated within **Github Actions** (CI/CD) into **AWS**.
 - **API Load Testing** results obtained through **Artillery**. Integrated within Github actions.
 - **TDD** applied across every development level.
+- **Alternative Implementation** - API Infrastructure and business logic provisioned via **Serverless** framework - https://github.com/juanroldan1989/serverless-url-shortener
 
 <hr>
 
-## AWS ECS Deployment Blueprints
+## AWS ECS Blueprints
 
 https://github.com/juanroldan1989/deploy-ecs-blueprint
 
@@ -125,6 +126,8 @@ Features provided within each blueprint:
 ![Screenshot 2024-09-30 at 20 19 25](https://github.com/user-attachments/assets/ecff068b-8af2-47ff-a18d-798d63f033e4)
 
 ![Screenshot 2024-09-30 at 13 33 36](https://github.com/user-attachments/assets/160b9f43-e588-4c50-a015-ff5e8ceaf430)
+
+<hr>
 
 ## Kubernetes Monitoring with Prometheus & cAdvisor & Grafana
 
@@ -152,7 +155,7 @@ https://github.com/user-attachments/assets/2a885781-689a-417f-be15-c57542ed07d8
 
 <hr>
 
-## REST API with Terraform & AWS Lambda functions
+## REST API (Terraform & AWS Lambda)
 
 https://github.com/juanroldan1989/terraform-with-rest-api-gateway-and-lambda-functions
 
