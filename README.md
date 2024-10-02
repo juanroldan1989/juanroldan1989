@@ -37,7 +37,7 @@ https://github.com/juanroldan1989/color-tracking
 - Backend implementd with **Ruby on Rails**, **Kafka** and **Zookeeper**.
 - Deployment workflow through **AWS ECS** script.
 - Deployment workflow through **Terraform** and integrated within **Github Actions** (CI/CD) into **AWS**. (work in progress)
-- **Alternative Implementation** - API Infrastructure and business logic provisioned via **Serverless** framework - https://github.com/juanroldan1989/serverless-url-shortener
+- **Alternative Implementation** - API Infrastructure and business logic provisioned via **Serverless** framework - https://github.com/juanroldan1989/serverless-color-tracking
 
 <hr>
 
