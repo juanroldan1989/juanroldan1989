@@ -1,6 +1,6 @@
 # Juan Roldán
 
-### DevOps | Software Engineer | CKAD | 3x AWS Certified | Terraform & Argo Certified
+### Software Engineer | Ruby on Rails | CKAD | 3x AWS Certified | Terraform & Argo Certified
 
 Enthusiastic and versatile engineer with a proven track record of successful contributions to small, medium, and large-scale platforms.
 
@@ -87,9 +87,11 @@ https://github.com/juanroldan1989/terra-ops
 
 This project structure allows engineers to:
 
-- work in authorized environments linked to Terraform workspaces
-- update modules as needed
-- deploy specific applications or modules, like networking or ArgoCD apps within their respective environments
+1. Work on **specific** environments they are allowed to.
+2. **Add/Remove** modules as they need in order to build their applications within their environments.
+3. Deploy specific applications/modules (e.g.: **networking**, **addons**, **argocd-app-1**) within their specific environments.
+
+Each envs folder (**dev**, **prod**, etc) is associated with a specific Terraform **workspace**.
 
 <hr>
 
