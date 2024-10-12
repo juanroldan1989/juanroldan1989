@@ -41,6 +41,26 @@ https://github.com/juanroldan1989/color-tracking
 
 <hr>
 
+## 10M Records & 10K Users per/sec
+
+https://github.com/juanroldan1989/10K-users-for-10M-records
+
+![Screenshot 2024-10-12 at 16 43 48](https://github.com/user-attachments/assets/dcf8329d-2e59-452b-9626-49b6032dfb41)
+
+Complete automation project. Goals:
+
+- 🟢 Populate **10M records** on weather data
+- 🟢 Run standard health check DB queries
+- 🟢 Serve Flask App through **GUnicorn** and **Nginx**
+- 🟢 Simulate **10K users per second** interacting with API
+- 🟢 Tracking results & documenting improvements.
+- 🟢 All componenets containerised from the beginning following best practices.
+- 🟢 Seamlessly development & testing either through **Docker Compose** or **Terraform**.
+- 🟡 **Github Actions** integration.
+- 🟡 Terraform for provisioning **(AWS ECS Fargate)**
+
+<hr>
+
 ## URL Shortener API (Terraform)
 
 API Infrastructure provisioned via **Terraform (IaC)** - https://github.com/juanroldan1989/terraform-url-shortener
