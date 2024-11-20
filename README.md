@@ -1,6 +1,6 @@
 # Juan Roldán
 
-### Software Engineer | Ruby on Rails | CKAD | 3x AWS Certified | Terraform & Argo Certified
+### Software Engineer | DevOps | Ruby & Python | CKAD | 3x AWS Certified | Terraform & Argo Certified
 
 Enthusiastic and versatile engineer with a proven track record of successful contributions to small, medium, and large-scale platforms.
 
