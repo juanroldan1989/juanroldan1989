@@ -1,117 +1,109 @@
 # Juan Roldán
 
-### Software Engineer | DevOps | Ruby & Python | CKAD | 3x AWS Certified | Terraform & Argo Certified
+### DevOps Engineer | CKAD | 3x AWS Certified | Terraform & Argo Certified
 
-Enthusiastic and versatile engineer with a proven track record of successful contributions to small, medium, and large-scale platforms.
+Highly skilled and adaptable engineer with a strong foundation in software development and cloud infrastructure.
 
-Looking forward to driving success in diverse engineering environments, always aiming for innovation and collaboration.
+My career has been focused on solving real-world problems through technology, optimizing processes, and leading innovative projects in dynamic environments.
 
-# Find me
+I thrive in cross-functional teams and am driven by the opportunity to improve systems, contribute and deliver impactful solutions.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanroldan89/) [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://backburnerthoughts.substack.com/)
 
-Currently focused on:
+# Current Focus
 
-- scalability and availability solutions applying system design patterns within AWS.
-- researching self-service environment/services provisioning solutions like: AWS Proton, Port and Backstage.
+- Developing scalable and highly available solutions using system design patterns within AWS.
+- Mastering automation techniques for reliable infrastructure management.
+- Exploring advanced methodologies and tools for working with IaaS solutions such as OpenStack.
 
 # Technologies
 
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"><img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"><br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white"><img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white"><br/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"><img src="https://img.shields.io/badge/Terragrunt-2274EA?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAC1lBMVEUAAABYSKVYSaVXRKZXSaZYSaZYRqZYSKZYSKVXSKVXSKVXSKVYSKVYSKVYSaVYSaVYSKVXSKVXSKVXSKVXSKVYSaVYSaVYSaZZSaVWSKZXSKVYSaVYSaZYSaZXSKZYSKZYSKZYSKZYSKZYSKZYSaZYSaZYSaZYSaZYSKZXSKZXSaZXSKZXSKZYSaVYSKVYSaZXSaZYR6VYR6RXSKVVS6hHYLk7cchFYrxXSKZNV7Ivg9gboPEWqPgdnu8/a8NWSaZYSKZUTaosh9wUqfkWqfkXqPhCaMBFYrsZovMosPmG0Pmb2PpOvPkWqvlZSqY5f9MRp/hYv/jv9Pf//vzK6vwrsPkZnvFGX7lVRqR/c7qZyvEnr/lIt/Xi8Pj//v6x3vcgqvc7tvqFoNhdTaddTqi2r9f6/P6l3fw4s/dnwfOKzfI9s/RDuPnC6f7v7vaKgMBWR6WKgMH08/n+/v32+PnP7P2e2fqc2Pmi3PvY7fn29vf////SzuZjVatXR6VeUKnFwN/j4+S6u736+/rW19iztbjz8viCd7xWRqRtX7Dn5fLm5ufW1tf9/f3y8vPR0tP29vb9/f6ckspVRaSSicT39vrh4eGjpKe7vb/e3+Dh4uPa29yvsLOqq63y8vKzrdZxZbPe2+3+/v7v7++7vcC6vL++v8LZ2tv09PTn5PJ2arZWRqVaS6awqdT+/f7///6xqtVZS6ZqXa/j4O/6+vr5+fn8/Pzi4O9tX7Hp5/P7+/vz8/P19fX39/dgUarBvN74+PjHw+FgUqpwY7LMyOPk4u58cblURaSXjsX09PX7+/rMyOFeUKh9cbnNyeRnWa3c2ez5+Pubksm6tNrq6PNvYrFWR6SXjsf6+fzk4vBzZrTm5PHr6vTHwuHOyuTX1On7+/2podFbTKdaTKfGweBiVKtfUany8fiAdbv5+fxlV6zY1erX0+lpXK9mWK2Bdruelct7b7ib0VKkAAAALXRSTlMAAAAAAAAAAAcmW5+79AQviM7x/hh+3v0BOKv6AUTVONQYrAR++jHeBYn+Js7wKJbMAAAAAWJLR0R7T9K1/AAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+YICwwkABNKhj0AAAKGSURBVDjLfVPPaxNBFH5vZnay2VYhSUPbBEpSrBWq2FaPDUjBf6EnPaj4L3gTLx7Eo/+DICho0ZsXSy5eCgU9NJaQEJOQYkgbmx9tdmfH+bFNI4jvsPvm+7558+bNewiRYQy15aAqtZ3Jc9z+yLShs2otoWEkvfBCQGVSsXNqFVKUQmEtpeigiARsRtFJohyfK+8sJBLCjpK0AyNwZhEzQx1JTpmD8EhvizelPPSBAAdKF13Dp+LKuIiBztBdpFSR6JAMLhyZfGjaBuj/HpnUEjXZDNFZQPQMz7J4bgfCIAMpawwouvaqS2Me1/YCjXinEvAaomMDrOGEFY3ClxJXkJmisaX5SQFumyoFklXcBXvCMuoqnKr7YSeFUYWbpwzzJhgUPOx6RuChLocBZX6foW98BlPYVYR9k/KV98wmgSyKVVjFHzCNbVOKb+Ddw+f2rVjOBthAvH0Cst026cDZZTQhMEeiAJzvOqlUMplcVvzMTCmGhagRqrYzOAd+wns3s5n0ZoozINxmWSWWL3K+vNNwWt9beGO4P2qB6xWtgjqzunNi/evJTrpbGwwqlfrQu7RK39U07rSJrOgsh0XGNjo6AW2/spybWmNFknzGYMGO8/pnJ2rU9Db9aL1MnggxMm6LPHRLJQuXttgn44yEIGVh3774jMLYKC2YQgpRJuozMOALdn8scMq2YdRmSk+m5Zx6opCvkD14sL5+q95/7My/VHdIHIcNSXxZF9VEAuBtXMlc132zBa9i2wEkElVRlz4FQT15HA+A7G7eudp7eviIfn1CP1QBa2HY9ycHh30+hNm7EHxB3ITRxOCMR48twUEArNCaK9b/Gr2L4c35/x7e/43/H4SODLLTQnlYAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIyLTA4LTExVDE5OjM2OjAwLTA3OjAwx0vOWQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMi0wOC0xMVQxOTozNjowMC0wNzowMLYWduUAAAAASUVORK5CYII="><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"><br/><img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"><img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=red"><br/><img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white"><img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 
-# Portfolio (continuously developed)
+# Portfolio (Continuously Developed)
 
-## Events Live Tracking App (AWS ECS)
+## Events Live Tracking App
 
-Events Tracking Platform 🚦 Clicks & Hovers on Colors 🎯 Live Graphs & Counters
+The Events Tracking Platform is designed to monitor user interactions such as clicks and hovers on various colors, providing real-time graphs and counters.
 
-https://github.com/juanroldan1989/color-tracking
+Repository: https://github.com/juanroldan1989/color-tracking
 
-<img width="800" src="https://github.com/juanroldan1989/color-tracking/blob/main/color-tracking-live-demo.gif" />
-<img width="800" src="https://github.com/juanroldan1989/serverless-color-tracking/raw/main/screenshots/serverless-color-tracking-admin-page-demo.gif" />
+### Features
 
-- User events information stored in database (**PostgreSQL** & **Redis** supported).
-- Events stats shared via **Action Cable** and displayed to subscribed clients or specific clients via **polling** JS requests.
-- Backend implementd with **Ruby on Rails**, **Kafka** and **Zookeeper**.
-- Deployment workflow through **AWS ECS** script.
-- Deployment workflow through **Terraform** and integrated within **Github Actions** (CI/CD) into **AWS**. (work in progress)
-- **Alternative Implementation** - API Infrastructure and business logic provisioned via **Serverless** framework - https://github.com/juanroldan1989/serverless-color-tracking
+- **Data Storage**: User events are stored in databases with support for both **PostgreSQL** and **Redis**.
+- **Real-Time Updates**: Event statistics are shared via **Action Cable** for real-time updates to subscribed clients, or through polling JavaScript requests for specific clients.
+- **Backend Implementation**: The backend is developed using **Ruby on Rails**, **Kafka**, and **Zookeeper**.
+- **Deployment**:
+  - Primary deployment workflow is managed through **AWS ECS** scripts.
+  - Infrastructure as Code (IaC) is handled using **Terraform**, with CI/CD integration via **GitHub Actions** into **AWS** (work in progress).
+- **Alternative Implementation**: An alternative implementation of the API infrastructure and business logic is available using the **Serverless** framework. [Serverless Color Tracking](https://github.com/juanroldan1989/serverless-color-tracking)
 
 <hr>
 
-## 10M Records & 10K Users per/sec
+## High-Performance Data Processing Project
 
-https://github.com/juanroldan1989/10K-users-for-10M-records
+This project focuses on the complete automation of a high-performance data processing system.
 
-![Screenshot 2024-10-12 at 16 43 48](https://github.com/user-attachments/assets/dcf8329d-2e59-452b-9626-49b6032dfb41)
+Repository: https://github.com/juanroldan1989/10K-users-for-10M-records
 
-Complete automation project. Goals:
+### Features
 
-- 🟢 Populate **10M records** on weather data
-- 🟢 Run standard health check DB queries
-- 🟢 Serve Flask App through **GUnicorn** and **Nginx**
-- 🟢 Simulate **10K users per second** interacting with API
-- 🟢 Tracking results & documenting improvements.
-- 🟢 All componenets containerised from the beginning following best practices.
-- 🟢 Seamlessly development & testing either through **Docker Compose** or **Terraform**.
-- 🟡 **Github Actions** integration.
-- 🟡 Terraform for provisioning **(AWS ECS Fargate)**
+- **Data Population**: Efficiently populate a database with 10 million weather data records.
+- **Health Check**: Execute standard health check queries on the database to ensure data integrity and performance.
+- **Application Deployment**: Deploy a Flask application using GUnicorn and Nginx for optimal performance.
+- **Load Simulation**: Simulate 10,000 users per second interacting with the API to test system scalability and robustness.
+- **Performance Tracking**: Monitor and document performance metrics and improvements.
+- **Containerization**: Ensure all components are containerized from the outset, adhering to best practices.
+- **Development & Testing**: Facilitate seamless development and testing using Docker Compose and Terraform.
+- **CI/CD Integration**: Integrate with GitHub Actions for continuous integration and deployment (work in progress).
+- **Infrastructure Provisioning**: Use Terraform for provisioning infrastructure on AWS ECS Fargate (work in progress).
 
 <hr>
 
-## URL Shortener API (Terraform)
+## URL Shortener API
 
-API Infrastructure provisioned via **Terraform (IaC)** - https://github.com/juanroldan1989/terraform-url-shortener
+URL Shortener API infrastructure is provisioned using **Terraform (IaC)**.
 
-<img src="https://github.com/juanroldan1989/terraform-url-shortener/raw/main/screenshots/title-image.png" width="100%" />
-<img src="https://github.com/juanroldan1989/serverless-url-shortener/raw/main/screenshots/serverless-shortener-infra-1.png" width="100%" />
+Repository: https://github.com/juanroldan1989/terraform-url-shortener
 
-- Implemented with **AWS Lambda Functions**, **NodeJS** and **CQRS** Pattern.
-- Infrastructure managed through **Terraform**.
-- Deployment workflow through **Terraform** and integrated within **Github Actions** (CI/CD) into **AWS**.
-- **API Load Testing** results obtained through **Artillery**. Integrated within Github actions.
-- **TDD** applied across every development level.
-- **Alternative Implementation** - API Infrastructure and business logic provisioned via **Serverless** framework - https://github.com/juanroldan1989/serverless-url-shortener
+### Features
+
+- **Implementation**: Developed with **AWS Lambda Functions**, **NodeJS**, and the **CQRS** pattern.
+- **Infrastructure Management**: Managed entirely through **Terraform**.
+- **Deployment Workflow**: Automated deployment using **Terraform**, integrated with **GitHub Actions** for CI/CD into **AWS**.
+- **API Load Testing**: Performance testing conducted using **Artillery**, with results integrated into GitHub Actions.
+- **Test-Driven Development (TDD)**: Applied across all development stages.
+- **Alternative Implementation**: An alternative version of the API infrastructure and business logic is available using the **Serverless** framework. The repository can be found at [serverless-url-shortener](https://github.com/juanroldan1989/serverless-url-shortener).
 
 <hr>
 
 ## AWS ECS Blueprints
 
-https://github.com/juanroldan1989/deploy-ecs-blueprint
+This repository showcases various combinations of ECS Service, ECS Task, Nginx, Python, and Databases.
 
-Showcase with several combinations of ECS Service + ECS Task + Nginx + Python + Databases
+Repository: https://github.com/juanroldan1989/deploy-ecs-blueprint
 
-![Screenshot 2024-09-30 at 12 28 13](https://github.com/user-attachments/assets/20bef5c8-8723-40b9-92be-be8427a8ee5e)
+### Features
 
-![Screenshot 2024-09-30 at 20 19 25](https://github.com/user-attachments/assets/ecff068b-8af2-47ff-a18d-798d63f033e4)
-
-![Screenshot 2024-09-30 at 13 33 36](https://github.com/user-attachments/assets/160b9f43-e588-4c50-a015-ff5e8ceaf430)
-
-Features provided within each blueprint:
-
-- 🟢 Software Development Lifecycle (SDLC) pipeline integrated within `Github Actions`
-- 🟢 Infrastructure provisioned through `Terraform`
-- 🟢 Autoscaling mechanisms provided
-- 🟡 `Terraform` State and locking mechanism handled within `S3` and `DynamoDB` **(work in progress)**
-- 🟡 Load Testing performed through `wrk` and `k6s` tools **(work in progress)**
+- **Software Development Lifecycle (SDLC)**: Integrated pipeline within GitHub Actions.
+- **Infrastructure Provisioning**: Managed through Terraform.
+- **Autoscaling**: Mechanisms provided for scalability.
+- **Terraform State Management**: State and locking mechanism handled within S3 and DynamoDB.
+- **Load Testing**: Performed using wrk and k6s tools.
 
 <hr>
 
 ## Terra Ops
 
-https://github.com/juanroldan1989/terra-ops
+This project structure is designed to enable engineers to:
 
-<img src="https://github.com/juanroldan1989/terra-ops/blob/main/terra-ops-logo.png" alt="juanroldan1989 terra-ops">
+1. Operate within **specific** environments to which they have access.
+2. **Add or remove** modules as necessary to build applications within their designated environments.
+3. Deploy targeted applications or modules (e.g., **networking**, **addons**, **argocd-app-1**) within their specific environments.
 
-This project structure allows engineers to:
+Each environment folder (e.g., **dev**, **prod**) corresponds to a specific cloud environment.
 
-1. Work on **specific** environments they are allowed to.
-2. **Add/Remove** modules as they need in order to build their applications within their environments.
-3. Deploy specific applications/modules (e.g.: **networking**, **addons**, **argocd-app-1**) within their specific environments.
-
-Each envs folder (**dev**, **prod**, etc) is associated with a specific Terraform **workspace**.
+Repository: https://github.com/juanroldan1989/terra-ops
 
 <hr>
 
@@ -138,32 +130,6 @@ https://github.com/user-attachments/assets/d4e01624-e66f-4d26-afa8-57b35dbce782
 - `HPA` terminating pods based on null CPU consumption
 
 https://github.com/user-attachments/assets/2a885781-689a-417f-be15-c57542ed07d8
-
-<hr>
-
-## REST API (Terraform & AWS Lambda)
-
-https://github.com/juanroldan1989/terraform-with-rest-api-gateway-and-lambda-functions
-
-<img src="https://github.com/juanroldan1989/terraform-with-rest-api-gateway-and-lambda-functions/raw/main/screenshots/custom-auth-workflow.png" width="100%" />
-
-- Implemented with **AWS Lambda Functions** and **NodeJS**.
-- Authorization Layer implemented through **AWS Lambda Authorizer**.
-- Infrastructure managed through **Terraform**.
-- Deployment workflow through **Terraform** and integrated within **Github Actions** (CI/CD) into **AWS**.
-- **API Load Testing** results obtained through **Artillery**. Integrated within Github actions.
-- **TDD** applied across every development level.
-
-<hr>
-
-## Cocktails API
-
-https://cocktailsapi.xyz/
-
-![Screenshot 2024-10-02 at 21 01 09](https://github.com/user-attachments/assets/b637267b-3d05-4f38-a5ec-2812b1a38427)
-
-- [Shaken Not Stirred](https://github.com/juanroldan1989/shaken_not_stirred) API Ruby client ;)
-- Have a 🍹 and start coding!
 
 <hr>
 
