@@ -48,6 +48,24 @@ Repository: https://github.com/juanroldan1989/color-tracking
 
 <hr>
 
+## Sisyphus
+
+A practical guide to modern infrastructure provisioning and application deployment.
+
+DevOps-centric project that demonstrates modern infrastructure provisioning and application deployment workflows.
+
+This project allows DevOps engineers and Cloud Architects to:
+
+1. Operate within **specific** environments to which they have access.
+2. **Add or remove** modules as necessary to build applications within their designated environments.
+3. Deploy targeted applications or modules (e.g., **networking**, **karpenter**, **eks/internal-app**) within their specific environments.
+
+Each environment folder (e.g., **dev**, **prod**) corresponds to a specific cloud environment.
+
+Repository: https://github.com/juanroldan1989/sisyphus
+
+<hr>
+
 ## High-Performance Data Processing Project
 
 This project focuses on the complete automation of a high-performance data processing system.
@@ -82,36 +100,6 @@ Repository: https://github.com/juanroldan1989/terraform-url-shortener
 - **API Load Testing**: Performance testing conducted using **Artillery**, with results integrated into GitHub Actions.
 - **Test-Driven Development (TDD)**: Applied across all development stages.
 - **Alternative Implementation**: An alternative version of the API infrastructure and business logic is available using the **Serverless** framework. The repository can be found at [serverless-url-shortener](https://github.com/juanroldan1989/serverless-url-shortener).
-
-<hr>
-
-## AWS ECS Blueprints
-
-This repository showcases various combinations of ECS Service, ECS Task, Nginx, Python, and Databases.
-
-Repository: https://github.com/juanroldan1989/deploy-ecs-blueprint
-
-### Features
-
-- **Software Development Lifecycle (SDLC)**: Integrated pipeline within GitHub Actions.
-- **Infrastructure Provisioning**: Managed through Terraform.
-- **Autoscaling**: Mechanisms provided for scalability.
-- **Terraform State Management**: State and locking mechanism handled within S3 and DynamoDB.
-- **Load Testing**: Performed using wrk and k6s tools.
-
-<hr>
-
-## Terra Ops
-
-This project structure is designed to enable engineers to:
-
-1. Operate within **specific** environments to which they have access.
-2. **Add or remove** modules as necessary to build applications within their designated environments.
-3. Deploy targeted applications or modules (e.g., **networking**, **addons**, **argocd-app-1**) within their specific environments.
-
-Each environment folder (e.g., **dev**, **prod**) corresponds to a specific cloud environment.
-
-Repository: https://github.com/juanroldan1989/terra-ops
 
 <hr>
 
