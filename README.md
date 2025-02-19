@@ -2,19 +2,27 @@
 
 ### DevOps Engineer | CKAD | 3x AWS Certified | Terraform & Argo Certified
 
-Highly skilled and adaptable engineer with a strong foundation in software development and cloud infrastructure.
+I’m a proactive DevOps Engineer with a solid foundation in cloud infrastructure and the entire software development lifce cycle, now deepening my expertise in Platform Engineering.
 
-My career has been focused on solving real-world problems through technology, optimizing processes, and leading innovative projects in dynamic environments.
+Passionate about building efficient, scalable solutions, I’m currently exploring advanced techniques in crafting internal developer platforms, streamlining workflows and creating golden paths that reduce cognitive load for development teams.
 
-I thrive in cross-functional teams and am driven by the opportunity to improve systems, contribute and deliver impactful solutions.
+Driven by innovation and continuous learning, I thrive in cross-functional teams where I can leverage automation and cutting-edge tools to solve real-world challenges and drive transformational change.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanroldan89/) [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://backburnerthoughts.substack.com/)
 
 # Current Focus
 
-- Developing scalable and highly available solutions using system design patterns within AWS.
-- Mastering automation techniques for reliable infrastructure management.
-- Exploring advanced methodologies and tools for working with IaaS solutions such as OpenStack.
+- **Infrastructure Automation:** Leveraging Terraform for reliable, self-healing infrastructure through predictable, stable and automated steps.
+
+- **Container Orchestration:** Implementing and automating solutions through EKS and ECS services.
+
+- **Platform Engineering:** Diving into internal developer platform concepts, building golden paths and optimizing DevEx flows.
+
+- **Monitoring & Observability:** Utilizing Grafana and Prometheus to ensure robust monitoring and performance insights. Applying load testing methodologies tailored for K8S applications.
+
+- **CI/CD:** Integrating GitHub Actions workflows to accelerate development and reduce engineers’ cognitive load during deployments.
+
+- **GitOps:** Deepening knowledge in GitOps workflows with ArgoCD, Kubernetes and distributed applications enabling developers to "just develop" while streamlining deployments multiple times a day.
 
 # Technologies
 
