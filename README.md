@@ -22,7 +22,7 @@ Driven by innovation and continuous learning, I thrive in cross-functional teams
 
 - **CI/CD:** Integrating GitHub Actions workflows to accelerate development and reduce engineers’ cognitive load during deployments.
 
-- **GitOps:** Deepening knowledge in GitOps workflows with ArgoCD, Kubernetes and distributed applications enabling developers to "just develop" while streamlining deployments multiple times a day.
+- **GitOps:** Deepening knowledge in GitOps workflows with ArgoCD, Kubernetes and distributed applications enabling developers to "just push code" while streamlining deployments multiple times a day.
 
 # Technologies
 
