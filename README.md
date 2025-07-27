@@ -12,17 +12,11 @@ Driven by innovation and continuous learning, I thrive in cross-functional teams
 
 # Current Focus
 
-- **Infrastructure Automation:** Leveraging Terraform for reliable, self-healing infrastructure through predictable, stable and automated steps.
+- **GitOps Excellence:** Advancing expertise in GitOps methodologies using ArgoCD, Kubernetes and Crossplane to enable seamless, automated deployments. Focused on empowering development teams to deploy code efficiently and securely, supporting high-frequency releases and robust distributed systems.
 
-- **Container Orchestration:** Implementing and automating solutions through EKS and ECS services.
+- **Infrastructure Automation:** Architecting resilient, self-healing infrastructure with Terraform and Crossplane. Emphasizing automation, consistency and reliability across multi-cloud environments (CIVO, Vultr, Hetzner) by enforcing standardized provisioning practices and minimizing manual intervention.
 
-- **Platform Engineering:** Diving into internal developer platform concepts, building golden paths and optimizing DevEx flows.
-
-- **Monitoring & Observability:** Utilizing Grafana and Prometheus to ensure robust monitoring and performance insights. Applying load testing methodologies tailored for K8S applications.
-
-- **CI/CD:** Integrating GitHub Actions workflows to accelerate development and reduce engineers’ cognitive load during deployments.
-
-- **GitOps:** Deepening knowledge in GitOps workflows with ArgoCD, Kubernetes and distributed applications enabling developers to "just push code" while streamlining deployments multiple times a day.
+- **Platform Engineering:** Designing and implementing internal developer platforms that create streamlined, opinionated workflows ("golden paths") to enhance developer experience, reduce cognitive load and accelerate delivery cycles.
 
 # Technologies
 
