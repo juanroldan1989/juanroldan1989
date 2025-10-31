@@ -24,45 +24,7 @@ Driven by innovation and continuous learning, I thrive in cross-functional teams
 
 # Portfolio
 
-## Sisyphus
-
-A practical guide to modern infrastructure provisioning and application deployment.
-
-DevOps-centric project that demonstrates modern infrastructure provisioning and application deployment workflows.
-
-This project allows DevOps engineers and Cloud Architects to:
-
-1. Operate within **specific** environments to which they have access.
-2. **Add or remove** modules as necessary to build applications within their designated environments.
-3. Deploy targeted applications or modules (e.g., **networking**, **karpenter**, **eks/internal-app**) within their specific environments.
-
-Each environment folder (e.g., **dev**, **prod**) corresponds to a specific cloud environment.
-
-Repository: https://github.com/juanroldan1989/sisyphus
-
-<hr>
-
-## High-Performance Data Processing Project
-
-This project focuses on the complete automation of a high-performance data processing system.
-
-Repository: https://github.com/juanroldan1989/10K-users-for-10M-records
-
-### Features
-
-- **Data Population**: Efficiently populate a database with 10 million weather data records.
-- **Health Check**: Execute standard health check queries on the database to ensure data integrity and performance.
-- **Application Deployment**: Deploy a Flask application using GUnicorn and Nginx for optimal performance.
-- **Load Simulation**: Simulate 10,000 users per second interacting with the API to test system scalability and robustness.
-- **Performance Tracking**: Monitor and document performance metrics and improvements.
-- **Containerization**: Ensure all components are containerized from the outset, adhering to best practices.
-- **Development & Testing**: Facilitate seamless development and testing using Docker Compose and Terraform.
-- **CI/CD Integration**: Integrate with GitHub Actions for continuous integration and deployment (work in progress).
-- **Infrastructure Provisioning**: Use Terraform for provisioning infrastructure on AWS ECS Fargate (work in progress).
-
-<hr>
-
-[Explore additional projects in my portfolio &rarr;](/portfolio.md)
+[Explore projects &rarr;](/portfolio.md)
 
 ## Personal quotes
 
