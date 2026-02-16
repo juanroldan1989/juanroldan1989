@@ -1,6 +1,6 @@
 # Juan Roldán
 
-### DevOps Engineer | CKAD | 3x AWS Certified | Terraform & Argo Certified
+### DevOps / Platform Engineer | CKAD | 4x AWS Certified | Terraform & Argo Certified
 
 I’m a proactive DevOps Engineer with a solid foundation in cloud infrastructure and the entire software development lifce cycle, now deepening my expertise in Platform Engineering.
 
